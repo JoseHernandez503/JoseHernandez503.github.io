@@ -4,7 +4,7 @@ This is my home page! My name is Jose Hernandez and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/josehernandez503.github.io.
+My GitHub page is http://github.com/josehernandez503.
 
 ### CPSC 120
 
